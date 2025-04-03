@@ -33,7 +33,7 @@ Automated flight tracking system that monitors prices across multiple destinatio
 
 ### 1. Clone Repository  
 ```bash
-git clone https://github.com/seu-usuario/fly-budget.git
+git clone https://github.com/My-Py-Projects/fly-budget.git
 cd fly-budget
 ```
 
